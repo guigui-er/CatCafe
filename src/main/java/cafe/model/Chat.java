@@ -4,7 +4,7 @@ import jakarta.persistence.DiscriminatorValue;
 import jakarta.persistence.Entity;
 
 @Entity
-@DiscriminatorValue("customer")
+@DiscriminatorValue("chat")
 public class Chat {
 
 
